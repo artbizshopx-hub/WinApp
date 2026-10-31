@@ -1,0 +1,1053 @@
+===== GE-PROTON SYMLINK INVENTORY =====
+Prefix: /home/orangepi/WinApp
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/Program Files (x86)/Internet Explorer/iexplore.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/iexplore.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/iexplore.exe
+TYPE: PE32 executable for WINE (GUI), Intel i386, 5 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/Program Files (x86)/Windows NT/Accessories/wordpad.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wordpad.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wordpad.exe
+TYPE: PE32 executable for WINE (GUI), Intel i386, 5 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/Program Files (x86)/Common Files/System/ADO/msado15.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/msado15.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/msado15.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/Program Files (x86)/Common Files/System/OLE DB/msdaps.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/msdaps.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/msdaps.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/Program Files (x86)/Common Files/System/OLE DB/oledb32.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/oledb32.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/oledb32.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/Program Files (x86)/Common Files/System/OLE DB/msdasql.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/msdasql.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/msdasql.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/Program Files (x86)/Windows Media Player/wmplayer.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wmplayer.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wmplayer.exe
+TYPE: PE32 executable for WINE (GUI), Intel i386, 5 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/Program Files/Internet Explorer/iexplore.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/iexplore.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/iexplore.exe
+TYPE: PE32+ executable for WINE (GUI), ARM64, 6 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/Program Files/Windows NT/Accessories/wordpad.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wordpad.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wordpad.exe
+TYPE: PE32+ executable for WINE (GUI), ARM64, 6 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/Program Files/Common Files/System/ADO/msado15.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msado15.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msado15.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/Program Files/Common Files/System/OLE DB/msdaps.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msdaps.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msdaps.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/Program Files/Common Files/System/OLE DB/oledb32.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/oledb32.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/oledb32.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/Program Files/Common Files/System/OLE DB/msdasql.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msdasql.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msdasql.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/Program Files/Windows Media Player/wmplayer.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wmplayer.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wmplayer.exe
+TYPE: PE32+ executable for WINE (GUI), ARM64, 6 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/regedit.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/regedit.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/regedit.exe
+TYPE: PE32+ executable for WINE (GUI), ARM64, 6 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/winsxs/arm64_microsoft-windows-msxml30_31bf3856ad364e35_6.0.6000.16386_none_deadbeef/msxml3.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msxml3.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msxml3.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/winsxs/arm64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.23038_none_deadbeef/gdiplus.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/gdiplus.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/gdiplus.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/winsxs/x86_microsoft-windows-msxml60_31bf3856ad364e35_6.0.6000.16386_none_deadbeef/msxml6.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/msxml6.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/msxml6.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/winsxs/arm64_microsoft-windows-msxml60_31bf3856ad364e35_6.0.6000.16386_none_deadbeef/msxml6.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msxml6.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msxml6.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/winsxs/x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.23038_none_deadbeef/gdiplus.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/gdiplus.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/gdiplus.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/winsxs/arm64_microsoft.windows.gdiplus_6595b64144ccf1df_1.0.6000.16386_none_deadbeef/gdiplus.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/gdiplus.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/gdiplus.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/winsxs/x86_microsoft-windows-msxml30_31bf3856ad364e35_6.0.6000.16386_none_deadbeef/msxml3.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/msxml3.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/msxml3.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/winsxs/x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.0.6000.16386_none_deadbeef/gdiplus.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/gdiplus.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/gdiplus.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/winsxs/arm64_microsoft.msxml2_6bd6b9abf345378f_4.1.0.0_none_deadbeef/msxml4.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msxml4.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msxml4.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/winsxs/x86_microsoft.msxml2_6bd6b9abf345378f_4.1.0.0_none_deadbeef/msxml4.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/msxml4.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/msxml4.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/resources/themes/light/light.msstyles
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/light.msstyles
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/light.msstyles
+TYPE: PE32+ executable for WINE (DLL), ARM64
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/winhlp32.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/winhlp32.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/winhlp32.exe
+TYPE: PE32 executable for WINE (GUI), Intel i386, 5 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/twain_32.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/twain_32.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/twain_32.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 5 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/command/start.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/start.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/start.exe
+TYPE: PE32 executable for WINE (console), Intel i386, 5 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/WindowsPowerShell/v1.0/powershell.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/powershell.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/powershell.exe
+TYPE: PE32+ executable for WINE (console), ARM64, 5 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/dpwsockx.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dpwsockx.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dpwsockx.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/Speech/Common/sapi.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/sapi.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/sapi.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/Speech/Engines/TTS/msttsengine.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msttsengine.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msttsengine.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/winepulse.drv
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winepulse.drv
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winepulse.drv
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/dmime.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dmime.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dmime.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/gecko/plugin/npmshtml.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/npmshtml.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/npmshtml.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/dplayx.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dplayx.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dplayx.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/dmcompos.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dmcompos.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dmcompos.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/spool/prtprocs/w32x86/winprint.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/winprint.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/winprint.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 5 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/spool/prtprocs/w32x86/wineps.drv
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wineps.drv
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wineps.drv
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/spool/prtprocs/arm64/winprint.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winprint.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winprint.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/spool/prtprocs/arm64/wineps.drv
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wineps.drv
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wineps.drv
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/spool/drivers/w32x86/3/wineps.drv
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wineps.drv
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wineps.drv
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/spool/drivers/arm64/3/wineps.drv
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wineps.drv
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wineps.drv
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/atiadlxx.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/atiadlxx.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/atiadlxx.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/wineopenxr.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wineopenxr.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wineopenxr.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/amdxc64.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/amdxc64.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/amdxc64.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/dmband.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dmband.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dmband.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/atidxx64.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/atidxx64.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/atidxx64.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/lsteamclient.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/lsteamclient.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/lsteamclient.dll
+TYPE: PE32+ executable for WINE (DLL), x86-64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/DriverStore/FileRepository/igd_faux.inf_1/igd10iumd64.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/igd10iumd64.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/igd10iumd64.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/protontts.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/protontts.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/protontts.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/olepro32.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/olepro32.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/olepro32.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/icuuc68.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/icu/aarch64-windows/icuuc68.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/icu/aarch64-windows/icuuc68.dll
+TYPE: PE32+ executable for MS Windows 6.00 (DLL), x86-64, 6 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/winealsa.drv
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winealsa.drv
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winealsa.drv
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/rsx.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/rsx.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/rsx.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/crtdll.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/crtdll.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/crtdll.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/icuin68.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/icu/aarch64-windows/icuin68.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/icu/aarch64-windows/icuin68.dll
+TYPE: PE32+ executable for MS Windows 6.00 (DLL), x86-64, 6 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/d3dim.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/d3dim.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/d3dim.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/d3d10_1.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/d3d10_1.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/d3d10_1.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/d3dim700.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/d3dim700.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/d3dim700.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/dxcore.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dxcore.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dxcore.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/audioses.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/audioses.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/audioses.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/dotnetfx35.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dotnetfx35.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dotnetfx35.exe
+TYPE: PE32+ executable for WINE (GUI), ARM64, 5 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/vdmdbg.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/vdmdbg.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/vdmdbg.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/olethk32.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/olethk32.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/olethk32.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/ctl3d32.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/ctl3d32.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/ctl3d32.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/inkobj.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/inkobj.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/inkobj.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/tabtip.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/tabtip.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/tabtip.exe
+TYPE: PE32+ executable for WINE (console), ARM64, 5 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/dmstyle.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dmstyle.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dmstyle.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/libwow64fex.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/libwow64fex.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/libwow64fex.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/vrclient_x64.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/vrclient_x64.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/vrclient_x64.dll
+TYPE: PE32+ executable for WINE (DLL), x86-64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/d3d10.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/d3d10.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/d3d10.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/wbem/wmiutils.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wmiutils.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wmiutils.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/wbem/mofcomp.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/mofcomp.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/mofcomp.exe
+TYPE: PE32+ executable for WINE (console), ARM64, 5 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/wbem/wmic.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wmic.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wmic.exe
+TYPE: PE32+ executable for WINE (console), ARM64, 6 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/wbem/wbemprox.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wbemprox.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wbemprox.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/wbem/wbemdisp.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wbemdisp.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wbemdisp.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/getminidump.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/getminidump.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/getminidump.exe
+TYPE: PE32+ executable for WINE (GUI), ARM64, 3 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/winemenubuilder.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winemenubuilder.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winemenubuilder.exe
+TYPE: PE32+ executable for WINE (GUI), ARM64, 5 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/steam.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/steam.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/steam.exe
+TYPE: PE32+ executable for WINE (GUI), x86-64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/iccvid.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/iccvid.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/iccvid.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/icudt68.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/icu/aarch64-windows/icudt68.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/icu/aarch64-windows/icudt68.dll
+TYPE: PE32+ executable for MS Windows 6.00 (DLL), x86-64, 2 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/umu.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/umu.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/umu.exe
+TYPE: PE32+ executable for WINE (GUI), x86-64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/dplay.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dplay.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dplay.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/libarm64ecfex.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/libarm64ecfex.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/libarm64ecfex.dll
+TYPE: PE32+ executable for WINE (DLL), x86-64, 9 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/dmscript.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dmscript.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dmscript.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/xtajit64.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/xtajit64.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/xtajit64.dll
+TYPE: PE32+ executable for WINE (DLL), x86-64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/wineusb.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wineusb.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wineusb.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/http.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/http.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/http.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/hidclass.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/hidclass.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/hidclass.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/ndis.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/ndis.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/ndis.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/mountmgr.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/mountmgr.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/mountmgr.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/winexinput.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winexinput.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winexinput.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/winehid.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winehid.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winehid.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/mouhid.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/mouhid.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/mouhid.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/netio.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/netio.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/netio.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/hidparse.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/hidparse.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/hidparse.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/ksecdd.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/ksecdd.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/ksecdd.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/scsiport.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/scsiport.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/scsiport.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/cng.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/cng.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/cng.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/winebus.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winebus.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winebus.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/fltmgr.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/fltmgr.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/fltmgr.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/wdfldr.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wdfldr.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wdfldr.sys
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/winebth.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winebth.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winebth.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/usbd.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/usbd.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/usbd.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/dxgkrnl.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dxgkrnl.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dxgkrnl.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/wmilib.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wmilib.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/wmilib.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/tdi.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/tdi.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/tdi.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/dxgmms1.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dxgmms1.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/dxgmms1.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/drivers/nsiproxy.sys
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/nsiproxy.sys
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/nsiproxy.sys
+TYPE: PE32+ executable for WINE (native), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/olecli32.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/olecli32.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/olecli32.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/msscript.ocx
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msscript.ocx
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/msscript.ocx
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/iprop.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/iprop.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/iprop.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 7 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/system32/belauncher.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/belauncher.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/belauncher.exe
+TYPE: PE32+ executable for WINE (GUI), ARM64, 5 sections
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/msyh.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/msyh.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/msyh.ttf
+TYPE: TrueType Font data, 20 tables, 1st "FFTM", name offset 0x3a85d8
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/nirmala.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/nirmala.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/nirmala.ttf
+TYPE: TrueType Font data, 17 tables, 1st "GDEF", 7 names, Microsoft, language 0x409, Copyright 2015-2021 Google LLC. All Rights Reserved.Nirmala UIRegular2.008;GOOG;NotoSans-Regular
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/symbol.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/symbol.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/symbol.ttf
+TYPE: TrueType Font data, 13 tables, 1st "FFTM", 39 names, Macintosh
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/msyhbd.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/msyhbd.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/msyhbd.ttf
+TYPE: TrueType Font data, digitally signed, 17 tables, 1st "BASE", name offset 0x123b2ec
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/arialbd.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/arialbd.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/arialbd.ttf
+TYPE: TrueType Font data, 18 tables, 1st "FFTM", 30 names, Macintosh
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/tahoma.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/tahoma.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/tahoma.ttf
+TYPE: TrueType Font data, 20 tables, 1st "BDF ", 23 names, Macintosh
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/webdings.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/webdings.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/webdings.ttf
+TYPE: TrueType Font data, 14 tables, 1st "FFTM", 30 names, Macintosh
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/cour.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/cour.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/cour.ttf
+TYPE: TrueType Font data, 18 tables, 1st "FFTM", 28 names, Macintosh
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/arial.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/arial.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/arial.ttf
+TYPE: TrueType Font data, 18 tables, 1st "FFTM", 28 names, Macintosh
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/msgothic.ttc
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/msgothic.ttc
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/msgothic.ttc
+TYPE: TrueType font collection data, 1.0, 3 fonts, at 0x18 TrueType Font data, 16 tables, 1st "GSUB"
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/courbd.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/courbd.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/courbd.ttf
+TYPE: TrueType Font data, 18 tables, 1st "FFTM", 30 names, Macintosh
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/georgia.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/georgia.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/georgia.ttf
+TYPE: TrueType Font data, 18 tables, 1st "FFTM", 30 names, Macintosh
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/lucon.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/lucon.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/lucon.ttf
+TYPE: TrueType Font data, 17 tables, 1st "GDEF", 7 names, Microsoft, language 0x409, Copyright 2015-2021 Google LLC. All Rights Reserved.Lucida ConsoleRegular2.007;GOOG;NotoSansMono
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/marlett.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/marlett.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/marlett.ttf
+TYPE: TrueType Font data, 13 tables, 1st "FFTM", 30 names, Macintosh
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/tahomabd.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/tahomabd.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/tahomabd.ttf
+TYPE: TrueType Font data, 20 tables, 1st "BDF ", 24 names, Macintosh
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/micross.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/micross.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/micross.ttf
+TYPE: TrueType Font data, 17 tables, 1st "GDEF", 7 names, Microsoft, language 0x409, Copyright 2015-2021 Google LLC. All Rights Reserved.Microsoft Sans SerifRegular2.008;GOOG;NotoSa
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/wingding.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/wingding.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/wingding.ttf
+TYPE: TrueType Font data, 13 tables, 1st "FFTM", 30 names, Macintosh
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/times.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/times.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/wine/fonts/times.ttf
+TYPE: TrueType Font data, 18 tables, 1st "FFTM", 28 names, Macintosh
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/malgun.ttf
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/malgun.ttf
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/malgun.ttf
+TYPE: OpenType font data
+
+[OK] [OTHER]
+PATH: /home/orangepi/WinApp/drive_c/windows/Fonts/simsun.ttc
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/simsun.ttc
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/share/fonts/simsun.ttc
+TYPE: TrueType font collection data, 1.0, 2 fonts, at 0x14 TrueType Font data, digitally signed, 17 tables, 1st "BASE"
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/notepad.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/notepad.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/notepad.exe
+TYPE: PE32+ executable for WINE (GUI), ARM64, 5 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/explorer.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/explorer.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/explorer.exe
+TYPE: PE32+ executable for WINE (GUI), ARM64, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/WindowsPowerShell/v1.0/powershell.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/powershell.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/powershell.exe
+TYPE: PE32 executable for WINE (console), Intel i386, 4 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/Speech/Common/sapi.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/sapi.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/sapi.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/Speech/Engines/TTS/msttsengine.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/msttsengine.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/msttsengine.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/winepulse.drv
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/winepulse.drv
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/winepulse.drv
+TYPE: PE32 executable for WINE (DLL), Intel i386, 3 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/gecko/plugin/npmshtml.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/npmshtml.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/npmshtml.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/atiadlxx.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/atiadlxx.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/atiadlxx.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 5 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/vrclient.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/vrclient.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/vrclient.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 5 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/amdxc64.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/amdxc64.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/amdxc64.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/atidxx64.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/atidxx64.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/atidxx64.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/lsteamclient.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/lsteamclient.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/lsteamclient.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 5 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/DriverStore/FileRepository/igd_faux.inf_1/igd10iumd64.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/igd10iumd64.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/igd10iumd64.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 3 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/protontts.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/protontts.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/protontts.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/icuuc68.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/icu/i386-windows/icuuc68.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/icu/i386-windows/icuuc68.dll
+TYPE: PE32 executable for MS Windows 6.00 (DLL), Intel i386, 5 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/winealsa.drv
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/winealsa.drv
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/winealsa.drv
+TYPE: PE32 executable for WINE (DLL), Intel i386, 3 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/rsx.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/rsx.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/rsx.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/icuin68.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/icu/i386-windows/icuin68.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/icu/i386-windows/icuin68.dll
+TYPE: PE32 executable for MS Windows 6.00 (DLL), Intel i386, 5 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/d3d10_1.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/d3d10_1.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/d3d10_1.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/dxcore.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/dxcore.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/dxcore.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 5 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/audioses.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/audioses.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/audioses.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 3 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/dotnetfx35.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/dotnetfx35.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/dotnetfx35.exe
+TYPE: PE32 executable for WINE (GUI), Intel i386, 4 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/inkobj.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/inkobj.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/inkobj.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 5 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/tabtip.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/tabtip.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/tabtip.exe
+TYPE: PE32 executable for WINE (console), Intel i386, 4 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/d3d10.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/d3d10.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/d3d10.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/wbem/wmiutils.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wmiutils.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wmiutils.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/wbem/mofcomp.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/mofcomp.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/mofcomp.exe
+TYPE: PE32 executable for WINE (console), Intel i386, 4 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/wbem/wmic.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wmic.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wmic.exe
+TYPE: PE32 executable for WINE (console), Intel i386, 5 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/wbem/wbemprox.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wbemprox.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wbemprox.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/wbem/wbemdisp.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wbemdisp.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wbemdisp.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/getminidump.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/getminidump.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/getminidump.exe
+TYPE: PE32 executable for WINE (GUI), Intel i386, 3 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/steam.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/steam.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/steam.exe
+TYPE: PE32 executable for WINE (GUI), Intel i386, 4 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/icudt68.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/icu/i386-windows/icudt68.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/icu/i386-windows/icudt68.dll
+TYPE: PE32 executable for MS Windows 6.00 (DLL), Intel i386, 2 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/umu.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/umu.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/umu.exe
+TYPE: PE32 executable for WINE (GUI), Intel i386, 4 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/drive_c/windows/syswow64/belauncher.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/belauncher.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/belauncher.exe
+TYPE: PE32 executable for WINE (GUI), Intel i386, 4 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/drive_c/windows/hh.exe
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/hh.exe
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/hh.exe
+TYPE: PE32+ executable for WINE (GUI), ARM64, 4 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/proton-dll-backup/opengl32.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/opengl32.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/opengl32.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/winevulkan-proton-backup/winevulkan-x86.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/winevulkan.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/winevulkan.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
+[OK] [ARM64]
+PATH: /home/orangepi/WinApp/winevulkan-proton-backup/winevulkan-x64.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winevulkan.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/aarch64-windows/winevulkan.dll
+TYPE: PE32+ executable for WINE (DLL), ARM64, 8 sections
+
+[OK] [I386]
+PATH: /home/orangepi/WinApp/wined3d-proton-backup/wined3d.dll
+TARGET: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wined3d.dll
+RESOLVED: /home/orangepi/.local/share/Steam/compatibilitytools.d/GE-Proton11-11-aarch64/files/lib/wine/i386-windows/wined3d.dll
+TYPE: PE32 executable for WINE (DLL), Intel i386, 6 sections
+
